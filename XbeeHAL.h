@@ -2,7 +2,6 @@
  * XbeeHAL.h
  *
  * Created: 1/15/2014 3:02:11 PM
- *  Author: Waron
  */ 
 
 #ifndef XBEEHAL_H_
